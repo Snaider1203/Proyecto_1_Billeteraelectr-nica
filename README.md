@@ -5,6 +5,10 @@ ESQUEMA: Entidad | Relación
 
 Caso: Billeteras Electrónicas
 
+
+Las billeteras electrónicas no solo han transformado la forma en que pagamos, sino que también han sido clave para mejorar la seguridad, la accesibilidad y la eficiencia de las transacciones financieras. Son una herramienta esencial para la sociedad moderna, promoviendo el uso de pagos digitales y ofreciendo nuevas oportunidades para la gestión financiera tanto a nivel personal como empresarial.
+
+
 1. Identificación de entidades principales:
 
 Usuario: Para manejar a los usuarios del sistema.
