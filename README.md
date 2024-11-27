@@ -60,5 +60,5 @@ Comercio:
 
 ## Modelo Entidad | Relación
 
-https://docs.google.com/drawings/d/e/2PACX-1vQMKhSBxUpyvFeiRs0d_rUPqbthE9X2PI1ZaSmdGK_AC625zkPTV3uR374tlOj0x7pOfmyoRiBLODPb/pub?w=960&h=720
+![image](https://github.com/user-attachments/assets/14ab8d4f-2daf-4ecc-8d09-1bb27c0f96de)
 
