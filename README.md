@@ -19,9 +19,13 @@ Usuario:
 
 IDUsuario (PK)
 Nombre
+
 Correo
+
 Teléfono
+
 Contraseña
+
 BalanceActual
 
 
