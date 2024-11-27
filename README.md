@@ -58,4 +58,4 @@ Comercio:
 - Ubicación
 
 
-
+## Modelo Entidad | Relación
