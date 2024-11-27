@@ -21,12 +21,12 @@ Comercio: Información sobre los comercios afiliados.
 
 Usuario:
 
-IDUsuario (PK)
-Nombre
-Correo
-Teléfono
-Contraseña
-BalanceActual
+- IDUsuario (PK)
+- Nombre
+- Correo
+- Teléfono
+- Contraseña
+- BalanceActual
 
 
 Método de pago:
