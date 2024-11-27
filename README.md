@@ -31,31 +31,31 @@ Usuario:
 
 Método de pago:
 
-IDMetodoPago (PK)
-Tipo (Tarjeta, Cuenta bancaria)
-Número
-Banco
-FechaExpiración (si aplica)
-IDUsuario (FK)
+- IDMetodoPago (PK)
+- Tipo (Tarjeta, Cuenta bancaria)
+- Número
+- Banco
+- FechaExpiración (si aplica)
+- IDUsuario (FK)
 
 
 Transacción:
 
-IDTransaccion (PK)
-Monto
-FechaHora
-TipoTransaccion (Depósito, Retiro, Pago)
-IDUsuarioOrigen (FK)
-IDUsuarioDestino (FK, nullable para retiros y depósitos)
-IDComercio (FK, nullable para transacciones entre usuarios)
+- IDTransaccion (PK)
+- Monto
+- FechaHora
+- TipoTransaccion (Depósito, Retiro, Pago)
+- IDUsuarioOrigen (FK)
+- IDUsuarioDestino (FK, nullable para retiros y depósitos)
+- IDComercio (FK, nullable para transacciones entre usuarios)
 
 
 Comercio:
 
-IDComercio (PK)
-Nombre
-TipoNegocio
-Ubicación
+- IDComercio (PK)
+- Nombre
+- TipoNegocio
+- Ubicación
 
 
 
